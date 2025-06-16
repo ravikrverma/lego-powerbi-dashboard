@@ -13,7 +13,8 @@ This project is a fully interactive Power BI dashboard built as part of the **Ma
 
 ## 📸 Preview
 
-![Dashboard Screenshot](insert-image-link-if-available)
+![Dashboard Screenshot](https://github.com/ravikrverma/lego-powerbi-dashboard/blob/main/Main_DashBord.png?raw=true)
+
 
 ## 🚀 Live Dashboard  
 👉 [Click to View on Power BI](https://lnkd.in/gwhZrzf4)
