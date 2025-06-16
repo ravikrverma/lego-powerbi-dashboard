@@ -37,6 +37,13 @@ This project is a fully interactive Power BI dashboard built as part of the **Ma
 - Export to Excel or PDF
 - Mobile layout optimization
 
+  ## 📊 Data Source
+
+This project uses a dataset of over 4,000 LEGO sets, including themes, piece counts, and age recommendations.
+
+📂 [Download LEGO Dataset (CSV)](https://github.com/ravikrverma/lego-powerbi-dashboard/blob/main/lego_sets.csv?raw=true)
+
+
 ---
 
 ### 📬 Connect with Me  
